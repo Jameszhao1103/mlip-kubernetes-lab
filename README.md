@@ -4,9 +4,9 @@ In Lab 9, we will explore the fundamental aspects of deploying and managing appl
 To receive credit for this lab, show your work to the TA during recitation.
 
 ## Deliverables
-- [ ] Show the TA the logs of one Pod in the MiniKube dashboard
-- [ ] Explain to the TA how Kubernetes deploys updates
-- [ ] Show a screenshot of the crashed Pod(s)
+- [x] Show the TA the logs of one Pod in the MiniKube dashboard
+- [x] Explain to the TA how Kubernetes deploys updates
+- [x] Show a screenshot of the crashed Pod(s)
 
 ## Getting started
 - Start Docker
